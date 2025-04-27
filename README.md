@@ -1,4 +1,4 @@
-<h1 align="center">OBED-TECH</h1>
+<h1 align="center">JINJOR-THE-HACKER</h1>
 
 <h1 align="center">In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine 😏🙏</h1>
 
@@ -15,7 +15,7 @@
       Fork the repository to customize and use the bot for your needs.
       <br><br>
       <a href="https://github.com/Trippleo1802/OBED-TECHX1/fork">
-        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK OBED-TECHX" width="150">
+        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK JINJOR-THE-HACKER" width="150">
       </a>
     </td>
     <td align="center">
@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td align="center">
-      <b>OBED TECH APIs</b><br>
+      <b>JINJOR THE HACKER APIs</b><br>
       Visit our website for ObedX APIs and integrations (under development).
       <br><br>
       <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/KEITH%20APIs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="KEITH APIs" width="200">
+        <img src="https://img.shields.io/badge/KEITH%20APIs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="JINJOR APIs" width="200">
       </a>
     </td>
     <td align="center">
@@ -74,14 +74,14 @@
 <h1 align="center">Thanks to our loyal followers</h1>
 
 <p align="center">
-  <a href="https://github.com/Trippleo1802/OBED-TECHX1/stargazers">
-    <img src="https://reporoster.com/stars/dark/Trippleo1802/OBED-TECHX1" alt="Stargazers repo roster for @Trippleo1802/OBED-TECHX1">
+  <a href="https://github.com/Trippleo1802/JINJOR THE HACKER1/stargazers">
+    <img src="https://reporoster.com/stars/dark/Trippleo18 JINJOR" alt="Stargazers repo roster for @Trippleo1802/JINJOR THE HACKER">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Trippleo1802/OBED-TECHX1/network/members">
-    <img src="https://reporoster.com/stars/dark/Trippleo1802/OBED-TECHX1" alt="Forkers repo roster for @Trippleo1802/OBED-TECHX1">
+  <a href="https://github.com/Trippleo1802/JINJOR THE HACKER/network/members">
+    <img src="https://reporoster.com/stars/dark/Trippleo1802/JINJOR THE HACKER" alt="Forkers repo roster for @Trippleo1802/JINJOR THE HACKER">
   </a>
 </p>
 
